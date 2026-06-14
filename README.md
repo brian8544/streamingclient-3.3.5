@@ -1,3 +1,4 @@
+https://github.com/brian8544/mod-streamingclient
 
 # WoW 3.3.5a Streaming Client Setup
 
